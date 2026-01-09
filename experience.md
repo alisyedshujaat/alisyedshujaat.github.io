@@ -36,6 +36,6 @@ permalink: /experience/
 <br>
 
 * **Project Lead** | *Organization for Educational Change (OEC)* | 2020 – 2023
-    *Led initiatives including the OEC Junior Wing, Mock Tests, and Mentoring Sessions.  
+    * Led initiatives including the OEC Junior Wing, Mock Tests, and Mentoring Sessions.  
 * **Volunteer** | *Boy Scouts Association GB, Pakistan* | 2013 – 2023
     * Provided community services including tutoring, organizing medical camps, and local cleaning drives.

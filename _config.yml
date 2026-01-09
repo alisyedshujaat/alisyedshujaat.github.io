@@ -105,6 +105,5 @@ nav_item:
   - { url: '/experience', text: 'Experience' }
   - { url: '/research', text: 'Research' }
   - { url: '/awards', text: 'Awards' }
-  - { url: '/service', text: 'Service' }
   
   

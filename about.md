@@ -25,5 +25,5 @@ I hail from the scenic **Yasin Valley** in the **Gilgit-Baltistan** region of Pa
 
 * **University Email:** [syed.shujaatAli_2026@ucentralasia.org](mailto:syed.shujaatAli_2026@ucentralasia.org)
 * **Personal Email:** [shujaatalisyed34@gmail.com](mailto:shujaatalisyed34@gmail.com) 
-* **LinkedIn:** [linkedin.com/in/syed-shujaat-ali](https://www.linkedin.com/in/syed-shujaat-ali-02a147193) [cite: 3]
+* **LinkedIn:** [linkedin.com/in/syed-shujaat-ali](https://www.linkedin.com/in/syed-shujaat-ali-02a147193)
 * **Phone:** +92 3116492133

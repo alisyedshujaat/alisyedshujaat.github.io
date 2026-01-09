@@ -92,8 +92,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2026 Syed Shujaat Ali'
+admin_name: 'Syed Shujaat Ali'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
@@ -102,3 +102,9 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
+  - { url: '/experience', text: 'Experience' }
+  - { url: '/research', text: 'Research' }
+  - { url: '/awards', text: 'Awards' }
+  - { url: '/service', text: 'Service' }
+  
+  

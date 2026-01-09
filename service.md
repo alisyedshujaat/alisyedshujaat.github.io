@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: inner
 title: Community Engagement
 permalink: /service/
 ---

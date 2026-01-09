@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: inner
 title: Awards & Honors
 permalink: /awards/
 ---

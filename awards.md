@@ -7,6 +7,10 @@ permalink: /awards/
 ### Academic Excellence
 <br>
 
+* **Valedictorian of the Class of 2026** &nbsp;|&nbsp; *University of Central Asia* &nbsp;|&nbsp; 2026
+    * Delivered the valedictory address as the highest academic award recipient, graduating at the top of the undergraduate class.
+* **Summa Cum Laude (Diploma with Excellence / Red Diploma)** &nbsp;|&nbsp; *University of Central Asia* &nbsp;|&nbsp; 2026
+    * Awarded the highest academic distinction for outstanding scholastic achievement throughout the undergraduate program.
 * **Dean's Honor List Award** &nbsp;|&nbsp; *University of Central Asia* &nbsp;|&nbsp; 2022 – 2025
     * Awarded consecutively for three academic years (Freshman through Junior Year) in recognition of academic excellence and for being the top GPA holder in the Economics cohort.
 * **Dean's Honor List Award** &nbsp;|&nbsp; *University of Central Asia* &nbsp;|&nbsp; 2021 – 2022
@@ -19,6 +23,8 @@ permalink: /awards/
 ### Leadership & Special Recognition
 <br>
 
+* **Co-op Student of the Year** &nbsp;|&nbsp; *University of Central Asia* &nbsp;|&nbsp; 2026
+    * Awarded by the Co-operative Education Department in recognition of exceptional professional performance and contributions during work placements across the region's public, private, and development sectors.
 * **Outstanding Leadership Award** &nbsp;|&nbsp; *Organization for Educational Change Pakistan* &nbsp;|&nbsp; 2024
     * Recognized for exceptional leadership within the organization.
 * **Special Recognition Award** &nbsp;|&nbsp; *Gilgit-Baltistan, Pakistan* &nbsp;|&nbsp; 2024

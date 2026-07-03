@@ -7,7 +7,8 @@ permalink: /experience/
 ### Academic & Teaching Experience
 <br>
 
-* **Teaching Assistant – Econometrics II** &nbsp;|&nbsp; *University of Central Asia* &nbsp;|&nbsp; Sept 2025 – Present
+* **Teaching Assistant – Development Economics** &nbsp;|&nbsp; *University of Central Asia* &nbsp;|&nbsp; Jan 2026 – May 2026
+* **Teaching Assistant – Econometrics II** &nbsp;|&nbsp; *University of Central Asia* &nbsp;|&nbsp; Sept 2025 – Dec 2025
 * **Teaching Assistant – Econometrics I** &nbsp;|&nbsp; *University of Central Asia* &nbsp;|&nbsp; Jan 2025 – May 2025
 * **Teaching Assistant – Intermediate Microeconomics** &nbsp;|&nbsp; *University of Central Asia* &nbsp;|&nbsp; Sept 2024 – Dec 2024
 * **Teaching Assistant – Macroeconomics** &nbsp;|&nbsp; *University of Central Asia* &nbsp;|&nbsp; Jan 2024 – May 2024
@@ -26,8 +27,8 @@ permalink: /experience/
 ### Leadership Roles
 <br>
 
-* **President** &nbsp;|&nbsp; *Economics Club (OEC) at University of Central Asia* &nbsp;|&nbsp; 2025 – Present
-* **President** &nbsp;|&nbsp; *Organization for Educational Change (OEC)* &nbsp;|&nbsp; 2023 – Present
+* **President** &nbsp;|&nbsp; *Economics Club (OEC) at University of Central Asia* &nbsp;|&nbsp; 2025 – May 2026
+* **President** &nbsp;|&nbsp; *Organization for Educational Change (OEC)* &nbsp;|&nbsp; 2023 – April 2026
     * Leading youth-led educational projects focused on civic engagement, digital literacy, and leadership development.
 * **President** &nbsp;|&nbsp; *EconoSphere Society, University of Central Asia* &nbsp;|&nbsp; 2024 – 2025
 

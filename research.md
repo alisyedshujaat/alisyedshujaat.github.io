@@ -3,10 +3,10 @@ layout: inner
 title: Research
 permalink: /research/
 ---
-
+.
 ### Publications & Preprints
 * **[Analyzing the Likelihood of an Economic Bust in Pakistan: A Study of Key Macroeconomic Indicators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6847184)** (2026)
-    * *Published on SSRN Electronic Journal.*
+    * *Published on SSRN Electronic Journal.
 
 ### Working Papers
 * **Debt Service Burden, the Crowding-Out of Investment, and Economic Growth: Panel Evidence from 31 Heavily Indebted Economies (1990–2024)** (2026)
